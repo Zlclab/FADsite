@@ -28,6 +28,4 @@ python FADsite.py test4
 cd ./src/
 python FADsite.py test6  
 ```
-### contact
-Kang Xiao: xiaokangneuq@163.com
 
