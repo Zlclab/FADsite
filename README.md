@@ -1,4 +1,6 @@
-### A novel fusion technology utilizing complex network and sequence information for FAD-binding site identification. [https://doi.org/10.1016/j.ab.2023.115401](https://doi.org/10.1016/j.ab.2023.115401)
+### A novel fusion technology utilizing complex network and sequence information for FAD-binding site identification.
+
+[https://doi.org/10.1016/j.ab.2023.115401](https://doi.org/10.1016/j.ab.2023.115401)
 
 The benchmark datasets can be found in ./dataset, the codes for FADsite are available in ./src. And the PDB files of proteins are saved in ./pdb. Furthermore, the demo and corresponding documentation files can be found in ./demo. See our paper for more details.
 
